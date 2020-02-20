@@ -16,5 +16,6 @@
         "psr-4": {
             "OmsSdk\\": "src/omssdk"
         }
-    }
+    },
+    "license": "MIT"
 }

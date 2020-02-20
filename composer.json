@@ -1,0 +1,20 @@
+{
+    "name": "zhoujianlong/omssdk",
+    "description": "asa oms sdk",
+    "authors": [
+        {
+            "name": "zhoujianlong",
+            "email": "zjl_606@aliyun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "OmsSdk\\": "src/omssdk"
+        }
+    }
+}
